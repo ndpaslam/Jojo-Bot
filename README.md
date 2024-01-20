@@ -18,7 +18,7 @@
 
 ---------
 
-### a little about this bot
+### About This Bot
 - ✔️ | Simple
 - ✔️ | Menfess
 - ✔️ | AntiCall
