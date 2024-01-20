@@ -35,7 +35,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/Ndpaslam/JOJO-AI)](https://repl.it/github/Ndpaslam/JOJO-AI)
 
 ---------
-## FOR WINDOWS/RDP USER 💻
+## - WINDOWS USER
 
 Install this tool first before running the script
 
@@ -46,7 +46,7 @@ Install this tool first before running the script
 
 ----------
 
-## FOR VPS USER
+## - VPS USER
 
 * apt update && apt upgrade -y
 * apt install nodejs imagemagick ffmpeg -y
