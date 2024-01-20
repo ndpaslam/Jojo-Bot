@@ -5,7 +5,7 @@
 
 ## PENTING
 
-> **⚠️**: Jangan Memperjual Belikan Script Ini.
+>Jangan Memperjual Belikan Script Ini.
 
 
 <h1 align="center">Jojo - Ai</h1>
@@ -62,8 +62,8 @@ Install this tool first before running the script
 ----------
 
 ```bash
-git clone https://github.com/ImYanXiao/Jojo-MultiDevice
-cd Jojo-MultiDevice
+git clone https://github.com/Ndpaslam/JOJO-AI
+cd JOJO-AI
 npm install
 npm update
 ```
