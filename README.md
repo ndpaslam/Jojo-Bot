@@ -5,7 +5,7 @@
 
 ## PENTING
 
-> **Warning**: Jangan Memperjual Belikan Script Ini.
+> **⚠️**: Jangan Memperjual Belikan Script Ini.
 
 
 <h1 align="center">Jojo - MD</h1>
