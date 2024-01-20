@@ -3,7 +3,7 @@
     <img src="https://telegra.ph/file/95efee308b6504f67d548.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-## BACA MEK
+## BACA MEK!!
 
 >Jangan Memperjual Belikan Script Ini.
 
