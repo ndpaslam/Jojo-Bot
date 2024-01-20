@@ -8,7 +8,7 @@
 > Jangan Memperjual Belikan Script Ini.
 
 
-<h1 align="center">Jojo - Ai</h1>
+<h1 align="center">Jojo - Bot</h1>
 
 <p align="center">
  <a href="#"><img title="JOJOAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -58,8 +58,8 @@ Install this tool first before running the script
 ----------
 
 ```bash
-git clone https://github.com/Ndpaslam/JOJO-AI
-cd JOJO-AI
+git clone https://github.com/Ndpaslam/Jojo-Bot
+cd Jojo-Bot
 npm install
 npm update
 ```
