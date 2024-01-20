@@ -19,16 +19,16 @@
 ---------
 
 ### About This Bot
-- ✔️ | Simple
-- ✔️ | Menfess
-- ✔️ | AntiCall
-- ✔️ | Nsfw 
-- ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
+- | Simple
+- | Menfess
+- | AntiCall
+- | Nsfw 
+- | Sticker
+- | Kerang Ajaib 
+- | Quotes
+- | Anime 
+- | Premium 
+- | Tools 
 ---------
  
 ## ```USER REPLIT```
