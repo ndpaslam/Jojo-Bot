@@ -36,7 +36,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/Kaixzzoo/Jojo-MultiDevice)](https://repl.it/github/Kaixzzoo/Jojo-MultiDevice)
+[![Run on Repl.it](https://repl.it/badge/github/Ndpaslam/JOJO-AI)](https://repl.it/github/Ndpaslam/JOJO-AI)
 
 ---------
 ## FOR WINDOWS/RDP USER 💻
