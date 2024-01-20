@@ -3,22 +3,22 @@
     <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-## PENTING
+## BACA
 
-> **Warning**: Jangan Memperjual Belikan Script Ini.
+> Jangan Memperjual Belikan Script Ini.
 
 
-<h1 align="center">Jojo - MD</h1>
+<h1 align="center">Jojo - Ai</h1>
 
 <p align="center">
- <a href="#"><img title="JojoBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="JOJOAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ndpaslam"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ndpaslam-black.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
-### a little about this bot
+### About This Bot
 - ✔️ | Simple
 - ✔️ | Menfess
 - ✔️ | AntiCall
@@ -31,15 +31,11 @@
 - ✔️ | Tools 
 ---------
  
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
 ## ```USER REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/Kaixzzoo/Jojo-MultiDevice)](https://repl.it/github/Kaixzzoo/Jojo-MultiDevice)
 
 ---------
-## FOR WINDOWS/RDP USER 💻
+## WINDOWS USER
 
 Install this tool first before running the script
 
@@ -50,7 +46,7 @@ Install this tool first before running the script
 
 ----------
 
-## FOR VPS USER
+## VPS USER
 
 * apt update && apt upgrade -y
 * apt install nodejs imagemagick ffmpeg -y
@@ -62,8 +58,8 @@ Install this tool first before running the script
 ----------
 
 ```bash
-git clone https://github.com/ImYanXiao/Jojo-MultiDevice
-cd Jojo-MultiDevice
+git clone https://github.com/Ndpaslam/JOJO-AI
+cd JOJO-AI
 npm install
 npm update
 ```
@@ -157,6 +153,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`All Contributors`]
 * [`All Creator Bot`]
 * [`Whiskeysockets/Baileys`](https://github.com/WhiskeySockets/Baileys)
+* [`ImYanXiao`](https://github.com/ImYanXiao)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
 * [`Fokus ID`](https://github.com/Fokusdotid) 
