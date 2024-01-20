@@ -152,7 +152,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`All Friends`]
 * [`All Contributors`]
 * [`All Creator Bot`]
-* [`ImYhanXiao`]
+* [`ImYanXiao`](https://github.com/ImYanXiao)
 * [`Whiskeysockets/Baileys`](https://github.com/WhiskeySockets/Baileys)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
